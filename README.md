@@ -1,8 +1,6 @@
 # Unoffical Misskey API Admin Endpoint List (Japanese)
 
 ※これはMisskey 13.14.2現在での情報を元に構成しているため、古くなっている可能性があります。
-ここでのエンドポイントの動作の確認にはacefed様のGitpod Misskeyを利用しています。
-
 ## 
 abuse-user-reports
 ユーザー報告の一覧表示に利用される。
