@@ -1,6 +1,8 @@
 # Unoffical Misskey API Admin Endpoint List (Japanese)
 
 ※これはMisskey 13.14.2現在での情報を元に構成しているため、古くなっている可能性があります。
+
+Misskeyサーバーの作成にはGitpod([Gitpod Misskey](https://gitlab.com/acefed/gitpod-misskey)を利用しています。
 ## 
 abuse-user-reports
 ユーザー報告の一覧表示に利用される。
