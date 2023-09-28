@@ -4,19 +4,19 @@
 
 Misskeyサーバーの作成にはGitpod([Gitpod Misskey](https://gitlab.com/acefed/gitpod-misskey))を利用しています。
 ## 
-abuse-user-reports
+admin/abuse-user-reports
 ユーザー報告の一覧表示に利用される。
 
-meta
+admin/meta
 通常のmetaと同じ。多分。
 
-update-meta
+admin/update-meta
 metaの内容を更新する。
 
-show-users
+admin/show-users
 総ユーザーの一覧を表示。
 
-get-table-stats
+admin/get-table-stats
 DBの情報を表示する。
 ## invite
 invite/create
